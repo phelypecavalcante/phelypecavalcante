@@ -7,14 +7,12 @@ I'm a passionate Software Engineer with expertise in **Go**, **AWS** services, *
 ## 🛠️ Technologies & Tools
 
 - **Programming Languages**:  
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)  
-  I primarily work with Go for building high-performance backend services.
-
-  I also have professional experience with the following languages:  
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+    
   While I have worked with these languages in various projects, Go remains my primary and preferred language for backend development.
 
 - **Cloud Platforms**:  
