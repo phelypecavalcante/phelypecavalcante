@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm João Phelype da Silva Cavalcante (PhantomC/Silvantech)
+# Hi there! 👋 I'm João Phelype da Silva Cavalcante
 
 I'm a passionate Software Engineer with expertise in **Go**, **AWS** services, **EKS (Elastic Kubernetes Service)**, and a deep interest in building scalable systems for the **financial market**. I enjoy solving complex problems and optimizing systems for performance and reliability.
 
