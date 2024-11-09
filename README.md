@@ -66,6 +66,9 @@ My work involves building solutions tailored for the financial industry, focusin
 
 ---
 
+## 🧩 LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/phelypecavalcante?theme=radical&font=Red%20Hat%20Display&ext=heatmap)
+
 ## 🤝 Let's Connect!
 
 Feel free to check out my projects and get in touch:
